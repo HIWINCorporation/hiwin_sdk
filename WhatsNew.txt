@@ -1,0 +1,66 @@
+###########################################################
+ Hiwin Robot Software Development Kits                                     
+ Author:   HIWIN TECHNOLOGIES CORP                                     
+ WWW:      http://http://www.hiwin.tw//                    
+###########################################################
+Version 2.2.4 (Release date: 2020-4-27)
++) Added APIs enable_joint_soft_limit, enable_cart_soft_limit, set_joint_soft_limit, set_cart_soft_limit, get_joint_soft_limit_config, get_cart_soft_limit_config
++) Added APIs set_network_show_msg, get_network_show_msg, network_connect, network_disconnect, network_send_msg, network_recieve_msg, get_network_config, set_network_config, network_change_ip, network_get_state
+*) Modify set_digital_input_comment parameters.
+*) Modify set_digital_output_comment parameters.
+
+Version 2.2.3 (Release date: 2020-3-27)
++) Added APIs set_DI_simulation_Enable, set_DI_simulation, get_DI_simulation_Enable, set_digital_input_comment, get_digital_input_comment, set_digital_output_comment, get_digital_output_comment, set_home_point, get_home_point, get_previous_pos, get_user_alarm_setting_message
++) Added APIs set_user_alarm_setting_message, get_prog_number, get_prog_name, set_module_input_type, set_module_output_type, get_controller_time, get_payload_value, save_module_io_setting, SyncOutput, send_file, get_counter_name, set_counter_name, set_language, get_digital_setting, set_digital_setting, delete_file, delete_folder, new_folder, file_rename, file_drag
++) Added SampleCodes  09.SyncOutput  10.TaskStart
+*) Modify sendfile parameters.
+*) Modify task_stark parameters.
+*) Sample codes refined and verifications.
+
+Version 2.2.2 (Release date: 2020-2-27)
+Sample codes refined and verifications.
+
+Version 2.1.9 (Release date: 2020-1-10)
++)Added get_timer_status, set_timer_name, get_timer_name, set_pr_tool_base, set_pr_comment, get_pr_comment, get_module_input_config, get_module_output_config, set_module_input_simulation, set_module_input_value, set_module_input_start, set_module_input_end,  set_module_input_comment, set_module_output_value, set_module_output_start, set_module_output_end, set_module_output_comment, remove_command, remove_command_tail 
+
+Version 2.1.9 (Release date: 2019-9-17)
++) Added set_timer_start, set_timer_stop, get_pr, remove_pr
+-) Remove lin_rel_tool, get_robot_type_v2, get_hrss_version_v2, download_log_file
+
+Version 2.1.8 (Release date: 2019-3-15)
++) Added set_connection_level set_rsr, download_file, execute_file_name, get_digital_input, send_file commands.
+-) Remove set_speed_limit_off, set_speed_limit_on
+*) Modify API name.
+
+Version 2.1.7 (Release date: 2018-10-15)
++) Added get_robot_id, set_robot_id, update_hrss, send_file commands.
+------------------------------------------
+
+Version 2.1.6 (Release date: 2018-07-25)
+*) Modify callback function return error
+------------------------------------------
+
+Version 2.1.5 (Release date: 2018-03-06)
++) Added remove_command command
+------------------------------------------
+
+Version 2.1.4 (Release date: 2018-02-05)
+*) Modify example
+------------------------------------------
+
+Version 2.1.3 (Release date: 2017-11-10)
+*) Fix set_counter abnormality
+*) Fix set_timer abnormality
+------------------------------------------
+
+Version 2.1.1 (Release date: 2017-09-11)
++) Added the authentication mechanism on the controller
+*) remove modbus protocol
+------------------------------------------
+
+Version 2.0.0 (Release date: 2017-07-13)
++) Added controll command
+------------------------------------------
+
+Version 1.0.0 (Release date: 2017-02-06)
+------------------------------------------
