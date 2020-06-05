@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PTPmotion", "04.PTPmotion\04.PTPmotion.csproj", "{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Debug|x64.ActiveCfg = Debug|x64
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Debug|x64.Build.0 = Debug|x64
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Debug|x86.ActiveCfg = Debug|x86
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Debug|x86.Build.0 = Debug|x86
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Release|x64.ActiveCfg = Release|x64
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Release|x64.Build.0 = Release|x64
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Release|x86.ActiveCfg = Release|x86
+		{19B02EE3-FDCA-4E69-AB1B-B48C2F3CFB24}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F70ADC-253C-48E4-9BE8-138A7437BF54}
+	EndGlobalSection
+EndGlobal
