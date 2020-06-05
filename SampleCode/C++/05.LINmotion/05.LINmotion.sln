@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05.LINmotion", "05.LINmotion\05.LINmotion.vcxproj", "{54CE003D-CF67-4033-A27E-EB67C56E972E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Debug|Win32.Build.0 = Debug|Win32
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Debug|x64.ActiveCfg = Debug|x64
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Debug|x64.Build.0 = Debug|x64
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Release|Win32.ActiveCfg = Release|Win32
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Release|Win32.Build.0 = Release|Win32
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Release|x64.ActiveCfg = Release|x64
+		{54CE003D-CF67-4033-A27E-EB67C56E972E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4479AD11-B947-4B92-A3A8-1814AB090BD7}
+	EndGlobalSection
+EndGlobal
